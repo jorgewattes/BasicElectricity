@@ -60,3 +60,30 @@ def Q6():
     enun=f'Um ar-condicionado de 7.500 Btus, tem em média {P:.0f} W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas {n:.0f} vezes. Considerando a tarifa de {tar:.2f} R$/kW.h, o uso noturno de {h:.0f} horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?\nResposta:__________'
     gab=f'R$ {val:.2f} '
     return[enun,gab]
+
+def Q7():
+    V=np.random.randint(1,3)*12
+    Imax=np.random.randint(2,5)*10
+    R=V/Imax
+    enun=f'Uma bateria automotiva de {V:.0f}V e 60A.h, possui uma Amperagem de {Imax:.0f}A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>{Imax:.0f}A)?'
+    gab=f'R$ {R:.3f} '
+    return[enun,gab]
+
+def Q8(): 
+    V=np.random.randint(1,3)*12
+    R=10*np.random.randint(10,22)
+    I=np.random.randint(1,8)*0.25
+    N=np.ceil(I/(V/R))
+    enun=f'Resistores de {R:.0f} Ohms são conectados em paralelo a uma fonte de {V:.0f}V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que {I:.0f}A?'
+    gab=f'{N:.0f} '
+    return[enun,gab]
+
+def Q9(): 
+    P=1200*np.random.randint(2,7)
+    V=110*np.random.randint(1,3)
+    Ri=V*V/P
+    Rv=V*V/(P/2)
+    enun=f'Um chuveiro elétrico de {P:.0f} W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão?'
+    gab=f'Inverno:{Ri:.0f} - Verão: {Rv:.0f}'
+    return[enun,gab]
+
