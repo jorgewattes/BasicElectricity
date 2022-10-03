@@ -13,22 +13,22 @@ def Q2():
     Cores=['Preto','Marrom','Vermelho','Laranja','Amarelo','Verde','Azul','Violeta','Cinza','Branco']
     c1=np.random.randint(1,10)
     c2=np.random.randint(1,10)
-    c3=np.random.randint(1,5)
+    c3=np.random.randint(1,3)
     R=int(f'{c1}{c2}') *(10**c3)
     Cor1=Cores[c1]
     Cor2=Cores[c2]
     Cor3=Cores[c3]
 
     enun=f'Um resistor com as seguintes cores, terá uma resistência de quantos ohms?\n{Cor1} | {Cor2} | {Cor3} | Dourado\nResposta:__________'
-    gab=f'{R} Ohms'
+    gab=f'{R:.0f} Ohms'
     return[enun,gab]
 
 def Q3():
     V=6*np.random.randint(1,4)
     R=np.random.randint(12,67)*10
-    P=(V**2)/R
+    P=(V*V)/R
     enun=f'Alimentando com uma fonte de {V:.0f} V, um resistor de {R:.0f} Ohms, ele irá aquecer, transformando energia elétrica em térmica com que potência?\nResposta:__________'
-    gab=f'{P/V:.3f} W'
+    gab=f'{P:.3f} W'
     return[enun,gab]
 
 def Q4():
@@ -36,9 +36,9 @@ def Q4():
     n=np.random.randint(2,5)
     R=np.random.randint(12,67)*10
     Req=R/n
-    P=(V**2)/Req
+    P=(V*V)/Req
     enun=f'Alimentando com uma fonte de {V:.0f} V, {n:.0f} resistores de {R:.0f} Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?\nResposta:__________'
-    gab=f'{P/V:.3f} W'
+    gab=f'{P:.3f} W'
     return[enun,gab]
 
 def Q5():
@@ -66,16 +66,16 @@ def Q7():
     Imax=np.random.randint(2,5)*10
     R=V/Imax
     enun=f'Uma bateria automotiva de {V:.0f}V e 60A.h, possui uma Amperagem de {Imax:.0f}A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>{Imax:.0f}A)?'
-    gab=f'R$ {R:.3f} '
+    gab=f'{R:.2f} Ohms '
     return[enun,gab]
 
 def Q8(): 
     V=np.random.randint(1,3)*12
     R=10*np.random.randint(10,22)
-    I=np.random.randint(1,8)*0.25
+    I=np.random.randint(4,8)*0.5
     N=np.ceil(I/(V/R))
-    enun=f'Resistores de {R:.0f} Ohms são conectados em paralelo a uma fonte de {V:.0f}V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que {I:.0f}A?'
-    gab=f'{N:.0f} '
+    enun=f'Resistores de {R:.0f} Ohms são conectados em paralelo a uma fonte de {V:.0f}V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que {I:.2f}A?'
+    gab=f'{N:.2f} '
     return[enun,gab]
 
 def Q9(): 

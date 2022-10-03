@@ -3,35 +3,26 @@ import math
 import EleBas_N0 as EB
 
 alunos=[
-'Adriano Pires Ferreira',
-'Ana Alice Araujo Nogueira',
-'Camile Jordana Franco Garcia',
-'Camilly Vitória Gomes De Sousa',
-'Clenia Santos Silva Ferreira',
-'Daniel Ferreira Simões',
-'Derlan Da Silva Oliveira',
-'Felipe Soares Gomes',
-'Francisca Maria Queiroz Da Silva',
-'Francisco Ivan Gomes De Oliveira',
-'Gustavo Chagas Barbosa',
-'Hygo De Souza E Silva',
-'João Victor Rocha Costa',
-'José Wellington Nunes Pereira',
-'Kailany Santos Vieira',
-'Leandro Oliveira De Lima',
-'Lohanne Da Silva Vieira',
-'Lucas Vinicius De Oliveira Lima',
-'Marcelo De Oliveira Melo Costa',
-'Maria Da Glória De Cristo Félix',
-'Paulo Roberto Nepomuceno De Sousa',
-'Pedro Evander Lopes Da Silva',
-'Pedro Ryan Ferreira Lima',
-'Rafael Luz Gomes',
-'Raquel Das Chagas',
-'Rogerson Sousa Do Nascimento',
-'Sabrina Rodrigues De Amorim',
-'Tamires Vitória Silva De França',
-'Wagner Gomes De Oliveira'
+'ALYNE CAVALCANTE ROCHA',
+'ANDERSON BEZERRA DA COSTA',
+'ANTONIA VANESKA ROBERTO VIEIRA',
+'ANTONIO RAILTON SILVA ALMEIDA',
+'ARTHUR DA SILVA BARROZO',
+'CARLA RAYSA BARBOZA UCHÔA',
+'CLAUDIO MOISÉS VIEIRA GOMES',
+'EMANOEL BERNARDINO DA SILVA',
+'FRANCISCA ALBEVANIA MENEZES DO CARMO',
+'FRANCISCO CARLOS FERREIRA DOS SANTOS JUNIOR',
+'FRANCISCO MATHEUS DA SILVA',
+'FRANCISCO WALLISON RIBEIRO VIEIRA',
+'ISMAEL RODRIGUES DE SALES',
+'KLISMANN FLOR DA ROCHA',
+'MARIA JULIANA FERREIRA DE MOURA DA SILVA',
+'MARIANE DE FREITAS ALVES',
+'NICOLLY ELIDA VIEIRA LIMA',
+'RAFAELA CRISTINA GONDIM SILVA',
+'RYAN MAGALHÃES DE ALMEIDA',
+'Vih Menezes'
 ]
 
 resp={}
@@ -45,32 +36,32 @@ for x in range(len(alunos)):
     enunciado=enunciado+'Prova N1 (7-pontos)\nAluno: '+ alunos[x]+' \n'
 
     [enun,gab]=EB.Q2()
-    gabaritoaluno=gabaritoaluno+'Q1)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q1) '+gab+' / '
+    enunciado=enunciado+'1) (1 ponto) '+f'{enun}\n\n\n'
 
     [enun,gab]=EB.Q8()
-    gabaritoaluno=gabaritoaluno+'Q2)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q2) '+gab+' / '
+    enunciado=enunciado+'2) (1 ponto) '+f'{enun}\n\n\n\n'
 
     [enun,gab]=EB.Q7()
-    gabaritoaluno=gabaritoaluno+'Q3)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q3) '+gab+' / '
+    enunciado=enunciado+'3) (1 ponto) '+f'{enun}\n\n\n\n'
 
     [enun,gab]=EB.Q4()
-    gabaritoaluno=gabaritoaluno+'Q4)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q4) '+gab+' / '
+    enunciado=enunciado+'4) (1 ponto) '+f'{enun}\n\n\n\n'
 
     [enun,gab]=EB.Q5()
-    gabaritoaluno=gabaritoaluno+'Q5)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q5) '+gab+' / '
+    enunciado=enunciado+'5) (1 ponto) '+f'{enun}\n\n\n\n'
 
     [enun,gab]=EB.Q6()
-    gabaritoaluno=gabaritoaluno+'Q6)'+gab+' / '
-    enunciado=enunciado+f'{enun}\n\n\n'
+    gabaritoaluno=gabaritoaluno+'Q6) '+gab+' / '
+    enunciado=enunciado+'6) (1 ponto) '+f'{enun}\n\n\n'
 
-    [enun,gab]=EB.Q9()
-    gabaritoaluno=gabaritoaluno+'Q7)'+gab
-    enunciado=enunciado+f'{enun}\n'
+    [enun,gab]=EB.Q3()
+    gabaritoaluno=gabaritoaluno+'Q7) '+gab
+    enunciado=enunciado+'7) (1 ponto) '+f'{enun}\n'
 
     gabarito[alunos[x]]=gabaritoaluno
     gabaritoaluno=''
