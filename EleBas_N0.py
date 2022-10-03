@@ -43,9 +43,9 @@ def Q4():
 
 def Q5():
     V=110*np.random.randint(1,3)
-    P=np.random.randint(2,6)*1200
-    R1=(V**2)/P
-    R2=(V**2)/(P/2)
+    P=np.random.randint(2,7)*1200
+    R1=(V*V)/P
+    R2=(V*V)/(P/2)
     enun=f'Um chuveiro elétrico de {P:.0f} W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________'
     gab=f'Inverno: {R1:.2f} Ohms, Verão: {R2:.2f} Ohms'
     return[enun,gab]
@@ -78,12 +78,12 @@ def Q8():
     gab=f'{N:.2f} '
     return[enun,gab]
 
-def Q9(): 
-    P=1200*np.random.randint(2,7)
-    V=110*np.random.randint(1,3)
-    Ri=V*V/P
-    Rv=V*V/(P/2)
-    enun=f'Um chuveiro elétrico de {P:.0f} W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão?'
-    gab=f'Inverno:{Ri:.0f} - Verão: {Rv:.0f}'
-    return[enun,gab]
+# def Q9(): 
+#     P=1200*np.random.randint(2,7)
+#     V=110*np.random.randint(1,3)
+#     Ri=V*V/P
+#     Rv=V*V/(P/2)
+#     enun=f'Um chuveiro elétrico de {P:.0f} W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão?'
+#     gab=f'Inverno:{Ri:.0f} - Verão: {Rv:.0f}'
+#     return[enun,gab]
 
