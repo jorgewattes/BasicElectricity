@@ -4,8 +4,10 @@ import math
 def Q1():
     V=110*np.random.randint(1,3)
     P=np.random.randint(2,6)*1200
-    enun=f'Um chuveiro elétrico feito para instalações de {V:.0f}V, e com uma potência de {P:.0f} foi instalado em um circuito com disjuntor de 20A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?\nResposta:__________'
-    gab=f'{P/V:.3f}A, {"Sim" if P/V<20 else "não"}'
+    Inom=16+np.random.randint(0,2)*9
+    I=P/V
+    enun=f'Um chuveiro elétrico feito para instalações de {V:.0f}V, e com uma potência de {P:.0f}W foi instalado em um circuito com disjuntor de {Inom:.0f}A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?\nResposta:__________'
+    gab=f'{I:.3f}A, {"Sim" if I<Inom else "não"}'
     return[enun,gab]
 
 def Q2():
@@ -43,10 +45,10 @@ def Q4():
 
 def Q5():
     V=110*np.random.randint(1,3)
-    P=np.random.randint(2,7)*1200
+    P=np.random.randint(2,6)*1200
     R1=(V*V)/P
     R2=(V*V)/(P/2)
-    enun=f'Um chuveiro elétrico de {P:.0f} W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________'
+    enun=f'Um chuveiro elétrico de {P:.0f}W feito para instalações de {V:.0f} V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________'
     gab=f'Inverno: {R1:.2f} Ohms, Verão: {R2:.2f} Ohms'
     return[enun,gab]
 

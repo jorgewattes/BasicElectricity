@@ -1,0 +1,466 @@
+Prova N1 (7-pontos)
+Aluno: ANDERSON BEZERRA DA COSTA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 110V, e com uma potência de 4800W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 140 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 40A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>40A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 5 V, 2 resistores de 390 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 2400W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1000 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 16 vezes. Considerando a tarifa de 0.83 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Vermelho | Cinza | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: ANTONIA VANESKA ROBERTO VIEIRA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 110V, e com uma potência de 2400W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 140 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 40A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>40A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 10 V, 3 resistores de 210 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 6000W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1200 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 14 vezes. Considerando a tarifa de 0.85 R$/kW.h, o uso noturno de 7 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Laranja | Azul | Marrom | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: CARLA RAYSA BARBOZA UCHÔA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 3600W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 190 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 40A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>40A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 20 V, 4 resistores de 660 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 4800W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1300 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 18 vezes. Considerando a tarifa de 0.84 R$/kW.h, o uso noturno de 8 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Branco | Marrom | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: CLAUDIO MOISÉS VIEIRA GOMES 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 110V, e com uma potência de 2400W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 120 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 40A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>40A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 10 V, 3 resistores de 570 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 6000W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1100 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 16 vezes. Considerando a tarifa de 0.84 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Amarelo | Verde | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: FRANCISCA ALBEVANIA MENEZES DO CARMO 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 2400W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 180 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 20A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>20A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 5 V, 4 resistores de 380 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 4800W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1200 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 10 vezes. Considerando a tarifa de 0.79 R$/kW.h, o uso noturno de 8 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Violeta | Verde | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: FRANCISCO CARLOS FERREIRA DOS SANTOS JUNIOR 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 110V, e com uma potência de 3600W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 210 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 15 V, 3 resistores de 310 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 3600W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1200 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 16 vezes. Considerando a tarifa de 0.82 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Violeta | Branco | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: FRANCISCO MATHEUS DA SILVA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 4800W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 190 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 15 V, 4 resistores de 640 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 4800W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1100 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 14 vezes. Considerando a tarifa de 0.76 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Verde | Branco | Marrom | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: FRANCISCO WALLISON RIBEIRO VIEIRA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 6000W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 210 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 5 V, 4 resistores de 650 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 2400W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1300 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 16 vezes. Considerando a tarifa de 0.85 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Azul | Marrom | Marrom | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: ISMAEL RODRIGUES DE SALES 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 4800W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 120 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 20A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>20A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 10 V, 4 resistores de 330 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 2400W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1100 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 13 vezes. Considerando a tarifa de 0.80 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Amarelo | Branco | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: KLISMANN FLOR DA ROCHA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 6000W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 210 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 20A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>20A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 15 V, 4 resistores de 570 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 4800W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1300 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 11 vezes. Considerando a tarifa de 0.80 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Azul | Azul | Marrom | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: MARIA JULIANA FERREIRA DE MOURA DA SILVA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 110V, e com uma potência de 2400W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 140 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 20A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>20A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 20 V, 3 resistores de 200 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 6000W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1300 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 17 vezes. Considerando a tarifa de 0.75 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Amarelo | Violeta | Marrom | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: MARIANE DE FREITAS ALVES 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 4800W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 180 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 10 V, 2 resistores de 210 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 6000W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1100 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 19 vezes. Considerando a tarifa de 0.76 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Vermelho | Azul | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: RAFAELA CRISTINA GONDIM SILVA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 3600W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 100 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 40A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>40A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 15 V, 4 resistores de 470 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 3600W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1000 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 9 vezes. Considerando a tarifa de 0.79 R$/kW.h, o uso noturno de 8 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Cinza | Verde | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: RYAN MAGALHÃES DE ALMEIDA 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 6000W foi instalado em um circuito com disjuntor de 25A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 120 Ohms são conectados em paralelo a uma fonte de 12V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 2.00A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 24V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 5 V, 2 resistores de 450 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 2400W feito para instalações de 110 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1300 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 16 vezes. Considerando a tarifa de 0.85 R$/kW.h, o uso noturno de 7 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Azul | Branco | Vermelho | Dourado
+Resposta:__________
+Prova N1 (7-pontos)
+Aluno: Vih Menezes 
+1) (1 ponto) Um chuveiro elétrico feito para instalações de 220V, e com uma potência de 3600W foi instalado em um circuito com disjuntor de 16A. Buscando saber se o circuito era adequado ao equipamento, calculou-se a corrente do mesmo, qual o valor obtido? o circuito é adequado?
+Resposta:__________
+
+
+2) (1 ponto) Resistores de 130 Ohms são conectados em paralelo a uma fonte de 24V. Quantos resistores deste valor devem ser associados em paralelo para que a corrente drenada da fonte seja maior que 3.50A?
+
+
+
+3) (1 ponto) Uma bateria automotiva de 12V e 60A.h, possui uma Amperagem de 30A. Se a mesma fosse utilizada em um “ajuste técnico” para ligar uma sanduicheira elétrica, qual o valor mínimo de resistência elétrica da sanduicheira para que a bateria não fosse prejudicada (>30A)?
+
+
+4) (1 ponto) Alimentando com uma fonte de 5 V, 4 resistores de 120 Ohms são conectados em paralelo. Qual a potência total consumida pelos resistores?
+Resposta:__________
+
+
+
+5) (1 ponto) Um chuveiro elétrico de 6000W feito para instalações de 220 V, possui um seletor de inverno e verão. Na opção verão, o consumo cai pela metade. Qual o valor da resistência na opção inverno? e na opção verão? Resposta:__________
+
+
+
+6) (1 ponto) Um ar-condicionado de 7.500 Btus, tem em média 1000 W. Um casal que ligue o ar-condicionado apenas em noites quentes, observou que em um mês de 31 dias, ligou o ar-condicionado apenas 8 vezes. Considerando a tarifa de 0.78 R$/kW.h, o uso noturno de 9 horas. Qual será o valor, em reais, da conta de energia referente ao uso do ar-condicionado?
+Resposta:__________
+
+
+7) (1 ponto) Um resistor com as seguintes cores, terá uma resistência de quantos ohms?
+Verde | Marrom | Marrom | Dourado
+Resposta:__________
+Gabarito Prova N2
+ANDERSON BEZERRA DA COSTA
+Q1) 43.636A, não / Q2) 41.00  / Q3) 0.30 Ohms  / Q4) 0.128 W / Q5) Inverno: 20.17 Ohms, Verão: 40.33 Ohms / Q6) R$ 119.52  / Q7) 2800 Ohms
+ANTONIA VANESKA ROBERTO VIEIRA
+Q1) 21.818A, Sim / Q2) 21.00  / Q3) 0.30 Ohms  / Q4) 1.429 W / Q5) Inverno: 2.02 Ohms, Verão: 4.03 Ohms / Q6) R$ 99.96  / Q7) 360 Ohms
+CARLA RAYSA BARBOZA UCHÔA
+Q1) 16.364A, não / Q2) 32.00  / Q3) 0.60 Ohms  / Q4) 2.424 W / Q5) Inverno: 2.52 Ohms, Verão: 5.04 Ohms / Q6) R$ 157.25  / Q7) 9100 Ohms
+CLAUDIO MOISÉS VIEIRA GOMES
+Q1) 21.818A, Sim / Q2) 20.00  / Q3) 0.60 Ohms  / Q4) 0.526 W / Q5) Inverno: 8.07 Ohms, Verão: 16.13 Ohms / Q6) R$ 133.06  / Q7) 4500 Ohms
+FRANCISCA ALBEVANIA MENEZES DO CARMO
+Q1) 10.909A, Sim / Q2) 38.00  / Q3) 1.20 Ohms  / Q4) 0.263 W / Q5) Inverno: 10.08 Ohms, Verão: 20.17 Ohms / Q6) R$ 75.84  / Q7) 7500 Ohms
+FRANCISCO CARLOS FERREIRA DOS SANTOS JUNIOR
+Q1) 32.727A, não / Q2) 31.00  / Q3) 0.40 Ohms  / Q4) 2.177 W / Q5) Inverno: 3.36 Ohms, Verão: 6.72 Ohms / Q6) R$ 141.70  / Q7) 7900 Ohms
+FRANCISCO MATHEUS DA SILVA
+Q1) 21.818A, Sim / Q2) 28.00  / Q3) 0.40 Ohms  / Q4) 1.406 W / Q5) Inverno: 2.52 Ohms, Verão: 5.04 Ohms / Q6) R$ 105.34  / Q7) 590 Ohms
+FRANCISCO WALLISON RIBEIRO VIEIRA
+Q1) 27.273A, não / Q2) 53.00  / Q3) 0.80 Ohms  / Q4) 0.154 W / Q5) Inverno: 20.17 Ohms, Verão: 40.33 Ohms / Q6) R$ 159.12  / Q7) 610 Ohms
+ISMAEL RODRIGUES DE SALES
+Q1) 21.818A, Sim / Q2) 10.00  / Q3) 0.60 Ohms  / Q4) 1.212 W / Q5) Inverno: 20.17 Ohms, Verão: 40.33 Ohms / Q6) R$ 102.96  / Q7) 4900 Ohms
+KLISMANN FLOR DA ROCHA
+Q1) 27.273A, não / Q2) 31.00  / Q3) 1.20 Ohms  / Q4) 1.579 W / Q5) Inverno: 10.08 Ohms, Verão: 20.17 Ohms / Q6) R$ 102.96  / Q7) 660 Ohms
+MARIA JULIANA FERREIRA DE MOURA DA SILVA
+Q1) 21.818A, Sim / Q2) 35.00  / Q3) 0.60 Ohms  / Q4) 6.000 W / Q5) Inverno: 8.07 Ohms, Verão: 16.13 Ohms / Q6) R$ 149.18  / Q7) 470 Ohms
+MARIANE DE FREITAS ALVES
+Q1) 21.818A, não / Q2) 19.00  / Q3) 0.40 Ohms  / Q4) 0.952 W / Q5) Inverno: 8.07 Ohms, Verão: 16.13 Ohms / Q6) R$ 142.96  / Q7) 2600 Ohms
+RAFAELA CRISTINA GONDIM SILVA
+Q1) 16.364A, não / Q2) 25.00  / Q3) 0.30 Ohms  / Q4) 1.915 W / Q5) Inverno: 3.36 Ohms, Verão: 6.72 Ohms / Q6) R$ 56.88  / Q7) 8500 Ohms
+RYAN MAGALHÃES DE ALMEIDA
+Q1) 27.273A, não / Q2) 20.00  / Q3) 0.80 Ohms  / Q4) 0.111 W / Q5) Inverno: 5.04 Ohms, Verão: 10.08 Ohms / Q6) R$ 123.76  / Q7) 6900 Ohms
+Vih Menezes
+Q1) 16.364A, não / Q2) 19.00  / Q3) 0.40 Ohms  / Q4) 0.833 W / Q5) Inverno: 8.07 Ohms, Verão: 16.13 Ohms / Q6) R$ 56.16  / Q7) 510 Ohms

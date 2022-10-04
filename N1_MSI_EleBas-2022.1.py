@@ -3,14 +3,14 @@ import math
 import EleBas_N0 as EB
 
 alunos=[
-'ALYNE CAVALCANTE ROCHA',
+# 'ALYNE CAVALCANTE ROCHA',
 'ANDERSON BEZERRA DA COSTA',
 'ANTONIA VANESKA ROBERTO VIEIRA',
-'ANTONIO RAILTON SILVA ALMEIDA',
-'ARTHUR DA SILVA BARROZO',
+# 'ANTONIO RAILTON SILVA ALMEIDA',
+# 'ARTHUR DA SILVA BARROZO',
 'CARLA RAYSA BARBOZA UCHÔA',
 'CLAUDIO MOISÉS VIEIRA GOMES',
-'EMANOEL BERNARDINO DA SILVA',
+# 'EMANOEL BERNARDINO DA SILVA',
 'FRANCISCA ALBEVANIA MENEZES DO CARMO',
 'FRANCISCO CARLOS FERREIRA DOS SANTOS JUNIOR',
 'FRANCISCO MATHEUS DA SILVA',
@@ -19,7 +19,7 @@ alunos=[
 'KLISMANN FLOR DA ROCHA',
 'MARIA JULIANA FERREIRA DE MOURA DA SILVA',
 'MARIANE DE FREITAS ALVES',
-'NICOLLY ELIDA VIEIRA LIMA',
+# 'NICOLLY ELIDA VIEIRA LIMA',
 'RAFAELA CRISTINA GONDIM SILVA',
 'RYAN MAGALHÃES DE ALMEIDA',
 'Vih Menezes'
@@ -35,7 +35,7 @@ for x in range(len(alunos)):
     #print(alunos[x])
     enunciado=enunciado+'Prova N1 (7-pontos)\nAluno: '+ alunos[x]+' \n'
 
-    [enun,gab]=EB.Q2()
+    [enun,gab]=EB.Q1()
     gabaritoaluno=gabaritoaluno+'Q1) '+gab+' / '
     enunciado=enunciado+'1) (1 ponto) '+f'{enun}\n\n\n'
 
@@ -45,7 +45,7 @@ for x in range(len(alunos)):
 
     [enun,gab]=EB.Q7()
     gabaritoaluno=gabaritoaluno+'Q3) '+gab+' / '
-    enunciado=enunciado+'3) (1 ponto) '+f'{enun}\n\n\n\n'
+    enunciado=enunciado+'3) (1 ponto) '+f'{enun}\n\n\n'
 
     [enun,gab]=EB.Q4()
     gabaritoaluno=gabaritoaluno+'Q4) '+gab+' / '
@@ -59,7 +59,7 @@ for x in range(len(alunos)):
     gabaritoaluno=gabaritoaluno+'Q6) '+gab+' / '
     enunciado=enunciado+'6) (1 ponto) '+f'{enun}\n\n\n'
 
-    [enun,gab]=EB.Q3()
+    [enun,gab]=EB.Q2()
     gabaritoaluno=gabaritoaluno+'Q7) '+gab
     enunciado=enunciado+'7) (1 ponto) '+f'{enun}\n'
 
@@ -73,6 +73,6 @@ for x in range(len(alunos)):
 
 #enunciado=enunciado.replace('.',',')
 print(enunciado)
-#file = open('RegraDeTes.txt','w+')
-#file.write(enunciado)
-#file.close()
+file = open('N1-2Ch.docx','w+',encoding="utf-8")
+file.write(enunciado)
+file.close()
